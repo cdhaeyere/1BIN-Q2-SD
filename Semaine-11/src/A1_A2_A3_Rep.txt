@@ -1,0 +1,17 @@
+Les parcours d'arbres
+
+A1.
+
+a) 8,5,3,7,6,9,4,2
+b) 3,5,6,7,8,9,2,4
+c) 3,6,7,5,2,4,9,8
+d) 8,5,9,3,7,4,6,2
+
+A2.
+
+a) post-ordre
+b) in-ordre
+
+A3.
+
+in-ordre 
